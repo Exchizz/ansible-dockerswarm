@@ -1,0 +1,4 @@
+ansible_ssh_user: debian
+ansible_ssh_private_key_file: "~/.ssh/id_rsa.pub"
+ansible_host_key_checking: false
+user: debian
